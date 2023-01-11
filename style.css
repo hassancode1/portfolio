@@ -20,7 +20,9 @@ font-family: 'Righteous', cursive;
 }
 
 
-
+.portfolio__content {
+  margin-bottom:1.6rem
+}
 
 h1,p
 {
